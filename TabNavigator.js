@@ -1,0 +1,1 @@
+import CreateBottomNavigator from 'react navigation/bottom-tabs';
